@@ -63,7 +63,8 @@ h1::before{
 .wrap{
     display: flex;
     justify-content: space-around;   
-    margin-top: 250px;
+    margin: 150px auto 0;
+    width: 1200px;
 }
 
 .block1{
